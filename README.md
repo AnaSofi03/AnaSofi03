@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Sofi</h1>
 
 <p align="center">
-🎓 Estudiante de Programación en la UTN-FRT | 💻 Desarrolladora Fullstack | 🐱 Amante de los gatitos
+🎓 Estudiante de Programación en la UTN-FRT | 💻 Desarrolladora Fullstack 
 </p>
 
 ---
