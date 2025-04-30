@@ -45,7 +45,7 @@ He trabajado en diversos **proyectos personales** que me han permitido reforzar 
 
 ### 📫 Contacto
 
-📩 ana.sofi.programa@gmail.com
+📩 anasofiaesc22g@gmail.com
 
 ---
 
