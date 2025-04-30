@@ -1,18 +1,24 @@
-<h1 align="center">👋 ¡Hola! Soy Sofi </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="gatito programando" />
-</p>
-
+<h1 align="center">👋 ¡Hola! Soy Sofi</h1>
 
 <p align="center">
-🎓 Estudiante de programación en la UTN-FRT | 💻 Desarrolladora Fullstack
+🎓 Estudiante de Programación en la UTN-FRT | 💻 Desarrolladora Fullstack | 🐱 Amante de los gatitos
 </p>
 
 ---
 
-Soy estudiante de programación en la UTN-FRT y desarrolladora fullstack.  
-Apasionada por la resolución de problemas y el aprendizaje continuo, he desarrollado proyectos personales que fortalecen mis habilidades en desarrollo de software.  
-Busco una oportunidad para aplicar mis conocimientos y seguir creciendo profesionalmente.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="gatito programando" />
+</p>
+
+---
+
+### 💬 Sobre mí
+
+Soy estudiante de **Programación en la UTN-FRT** y una apasionada **desarrolladora fullstack**.  
+Me encanta resolver problemas, aprender constantemente y crear soluciones con código.  
+He trabajado en diversos **proyectos personales** que me han permitido reforzar mis habilidades tanto en el **frontend** como en el **backend**.  
+
+🔍 Actualmente, estoy en busca de una oportunidad para **aplicar mis conocimientos** en un entorno real y seguir creciendo profesionalmente.
 
 ---
 
@@ -38,7 +44,9 @@ Busco una oportunidad para aplicar mis conocimientos y seguir creciendo profesio
 ---
 
 ### 📫 Contacto
-📩 anasofiaesc22g@gmail.com
+
+📩 ana.sofi.programa@gmail.com
 
 ---
+
 
